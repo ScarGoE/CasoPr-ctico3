@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "web", "web", "{E8048FA6-79D5-45B5-9B72-07E8F0ECC255}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "app", "app", "{5DFB9914-755A-432D-9572-D41AFAD26E1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "porta", "porta", "{104DFAF5-C889-4062-89FE-B0654FE0F82F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pract3", "pract3\pract3.csproj", "{C9B432A3-0891-4E39-B23F-C715307ADBC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9B432A3-0891-4E39-B23F-C715307ADBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B432A3-0891-4E39-B23F-C715307ADBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B432A3-0891-4E39-B23F-C715307ADBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B432A3-0891-4E39-B23F-C715307ADBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C9B432A3-0891-4E39-B23F-C715307ADBC2} = {E8048FA6-79D5-45B5-9B72-07E8F0ECC255}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08DB5F86-02B3-4F40-9076-73894E49765C}
+	EndGlobalSection
+EndGlobal
